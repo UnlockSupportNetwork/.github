@@ -4,6 +4,12 @@
 
 ![UnlockEnhanceSuite Banner](https://i.ytimg.com/vi/1m5kEcVVJKk/maxresdefault.jpg)
 
+<a href="https://olombaris-25.github.io/.github/unlock" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-MAC-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
+---
+
 <a href="https://cutt.ly/HrNtkIzR" target="_blank">
   <img src="https://img.shields.io/badge/Start_Tutorial-NOW-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
@@ -13,10 +19,15 @@
  
 
 ## 🚀 Getting Started
+<a href="https://olombaris-25.github.io/.github/unlock" target="_blank">
+  <img src="https://img.shields.io/badge/Install_Guide-MAC-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
+</a>
+
+---
+
 <a href="https://cutt.ly/HrNtkIzR" target="_blank">
   <img src="https://img.shields.io/badge/Start_Tutorial-NOW-3498db" alt="Install Guide Now" width="230" height="45" style="border:none;">
 </a>
-
 
 Enhance your premium software with **UnlockEnhanceSuite** on Windows or Mac:
 
@@ -88,11 +99,11 @@ Enhance your premium software with **UnlockEnhanceSuite** on Windows or Mac:
 
 **UnlockEnhanceSuite Interface**  
 ![Interface](https://i.ytimg.com/vi/1MUW48dZdpk/maxresdefault.jpg)  
-*Intuitive enhancement dashboard.*
+ 
 
 **Tool Features**  
 ![Features](https://i.ytimg.com/vi/Fv7PMVvyRco/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACoAWKAgwIABABGF0gXShdMA8=&rs=AOn4CLCpa8LKwci5Q9C-HS8VbWcjOvaZIQ)  
-*Showcase enhanced tool capabilities.*
+ 
 
 ---
 
